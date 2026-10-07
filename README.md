@@ -41,19 +41,19 @@ Add the screenshots to an `assets/` folder in this repository.
 
 ### Executive Dashboard
 
-![Executive Dashboard](assets/dashboard-exec.png)
+![Executive Dashboard](dashboard-exec.png)
 
 ### Revenue Dashboard
 
-![Revenue Dashboard](assets/dashboard-revenue.png)
+![Revenue Dashboard](dashboard-revenue.png)
 
 ### Patient Flow Dashboard
 
-![Patient Flow Dashboard](assets/dashboard-flow.png)
+![Patient Flow Dashboard](dashboard-flow.png)
 
 ### Clinical Dashboard
 
-![Clinical Dashboard](assets/dashboard-clinical.png)
+![Clinical Dashboard](dashboard-clinical.png)
 
 ------------------------------------------------------------------------
 
