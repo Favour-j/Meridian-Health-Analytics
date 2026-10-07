@@ -35,6 +35,28 @@ The workflow was intentionally built like a real analytics assignment:
 Standardization/Mapping → Analytical Dataset → PivotTables & KPIs →
 Dashboards → Business Recommendations**
 
+# 🖼️ Dashboard Preview
+
+Add the screenshots to an `assets/` folder in this repository.
+
+### Executive Dashboard
+
+![Executive Dashboard](assets/dashboard-exec.png)
+
+### Revenue Dashboard
+
+![Revenue Dashboard](assets/dashboard-revenue.png)
+
+### Patient Flow Dashboard
+
+![Patient Flow Dashboard](assets/dashboard-flow.png)
+
+### Clinical Dashboard
+
+![Clinical Dashboard](assets/dashboard-clinical.png)
+
+------------------------------------------------------------------------
+
 ------------------------------------------------------------------------
 
 ## 🎯 Executive Summary
@@ -407,50 +429,7 @@ Includes:
 
 ------------------------------------------------------------------------
 
-# 🖼️ Dashboard Screenshots
 
-Add the screenshots to an `assets/` folder in this repository.
-
-### Executive Dashboard
-
-![Executive Dashboard](assets/dashboard-exec.png)
-
-### Revenue Dashboard
-
-![Revenue Dashboard](assets/dashboard-revenue.png)
-
-### Patient Flow Dashboard
-
-![Patient Flow Dashboard](assets/dashboard-flow.png)
-
-### Clinical Dashboard
-
-![Clinical Dashboard](assets/dashboard-clinical.png)
-
-------------------------------------------------------------------------
-
-# 🌐 Interactive Dashboard
-
-GitHub does not run an Excel workbook interactively inside the README.
-
-For an interactive browser-based version:
-
-**[Open Interactive Excel Dashboard
-→](PASTE-YOUR-ONEDRIVE-VIEW-LINK-HERE)**
-
-The recommended setup is to host the workbook on **OneDrive or
-SharePoint with view-only access**.
-
-The GitHub repository should contain:
-
--   the README
--   dashboard screenshots
--   the Excel workbook
--   supporting documentation
-
-The hosted Excel file provides the interactive viewing experience.
-
-------------------------------------------------------------------------
 
 # 📁 Repository Files
 
@@ -488,59 +467,7 @@ This should be described publicly as a **theoretical billed-value
 estimate associated with no-show volume**, not guaranteed recoverable
 revenue.
 
-------------------------------------------------------------------------
 
-# 👩🏽‍💻 Portfolio Summary
-
-**Meridian Health Analytics** is an end-to-end Excel and Power Query
-healthcare analytics project focused on revenue collection, payer
-denials, appointment attendance, patient waiting time, satisfaction and
-inpatient readmissions.
-
-I started with a messy hospital encounter export and built a repeatable
-workflow to clean, validate, standardize and analyze the data before
-translating the results into four decision-focused dashboards.
-
-The project demonstrates my ability to move from **raw data to business
-insight**, not just visualization.
-
-------------------------------------------------------------------------
-
-# 📈 Portfolio Case Study
-
-### Problem
-
-Healthcare leaders need to understand where revenue is being lost or
-delayed, where appointment capacity is being wasted, which operational
-bottlenecks affect patient experience, and which patient groups require
-closer follow-up.
-
-### Approach
-
-I used Power Query to clean and standardize the raw encounter data,
-created controlled mapping tables and validation checks, built
-analytical fields and KPIs, and used PivotTables and Excel dashboards to
-answer five business questions.
-
-### Findings
-
-The analysis identified a **₦275.2m outstanding balance**, a **73.3%
-collection rate**, a **28.0% PrimeCare denial rate**, a **16.3% no-show
-rate**, a **45.9-minute average wait**, and a **10.5% inpatient 30-day
-readmission rate**.
-
-### Recommendations
-
-The analysis supports payer-specific claims review, targeted no-show
-interventions, an operational review of the Ikeja waiting-time outlier,
-stronger follow-up for higher-risk inpatient groups, and ongoing
-collection monitoring against an **82% target**.
-
-### Outcome
-
-The final deliverable is a structured Excel analytics solution with a
-cleaned dataset, documented data-quality process, supporting analysis
-and four dashboards designed for different decision-making needs.
 
 ------------------------------------------------------------------------
 
